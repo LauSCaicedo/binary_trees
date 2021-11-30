@@ -11,6 +11,6 @@
 </ul>
 
 <h2> Contributors <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-Isabela Gomez <a href = 'https://twitter.com/IsaGome66256458'> <img width = '32px' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a> <br>
-Mayii Cadavid <a href = 'https://twitter.com/MayiiCadavid'> <img width = '32px' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a> <br>
-Laura Caicedo <a href = 'https://www.twitter.com/@LauSCaicedo'> <img width = '32px' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a>
+Isabela Gomez <a href = 'https://twitter.com/IsaGome66256458'> <img width = '32px' align = 'center' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a> <br>
+Mayii Cadavid <a href = 'https://twitter.com/MayiiCadavid'> <img width = '32px' align = 'center' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a> <br>
+Laura Caicedo <a href = 'https://www.twitter.com/@LauSCaicedo'> <img width = '32px' align = 'center' src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_TRANSPARENT_400.gif"/></a>
